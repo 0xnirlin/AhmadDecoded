@@ -9,7 +9,7 @@
 
 | Overall issues | High risk | Medium risk | Unique mediums | Projects audited 
 | ---------------| ----------| ------------| ---------------| ----------------
-| 38             | 15        |   23        | 2              | 11              
+| 40             | 15        |   23        | 2              | 11              
 
 
 
