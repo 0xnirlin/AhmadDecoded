@@ -7,24 +7,27 @@
 <!-- Profile Picture -->
 # Wall of achievements 🥳
 
-| Overall issues | High risk | Medium risk | Unique mediums | Projects audited 
-| ---------------| ----------| ------------| ---------------| ----------------
-| 40             | 15        |   23        | 2              | 11              
+| Overall issues | High risk | Medium risk | Unique mediums |
+| ---------------| ----------| ------------| ---------------|
+| 40             | 15        |   23        | 2              |           
 
+Second position in secureum race-18
 
 
 # Sherlock + Code4rena
 
 ## Audit Competitions
-| Contest          | High risk | Medium risk |  Security report | Payout   | Language |
-| -----------------| ----------| ------------| -----------------| ---------| ---------| 
-| Hubble-exchange  | 0         | 3 (1 solo)  |  -               || Solidity |  
-| Unstoppable      | 3         | 0           |  -               | | Vyper    | 
-| Asymmetry Finance                   | 2         |  2          |  [Report](https://code4rena.com/reports/2023-03-asymmetry)    |     | Solidity
-| Lybra Finance                       | -         |  1 (solo)   |   -                                                           | | Solidity    
-| Rubicon v2                          | 4         |  2          |   -                                                           |     | Solidity
-| Venus Protocol Isolated Pools       | -         |  1          |   -                                                           |       | Solidity
-| Chainlink Cross-Chain Services      | 1         |  -          |   -                                                           |      | Solidity 
+| Contest          | High risk | Medium risk |  Security report | Payout   | Language | Rank
+| -----------------| ----------| ------------| -----------------| ---------| ---------|  ---------| 
+| Hubble-exchange  | 0         | 3 (1 solo)  |  -               || Solidity |  4th overall
+| Unstoppable      | 3 ( 1 had only 1 dup         | 0           |  -               | | Vyper    | 5th overall
+| Asymmetry Finance                   | 2         |  2          |  [Report](https://code4rena.com/reports/2023-03-asymmetry)    |     | Solidity |
+| Ondo Finance      |          | 1 (total 3)  -          |   -                                                           |      | Solidity |
+| Axelar Bridge      |          | 1 (solo)  -          |   -                                                           |      | Solidity | 6th overall
+| Lybra Finance                       | -         |  1 (solo)   |   -                                                           | | Solidity |  top 10 overall  
+| Rubicon v2                          | 4         |  2          |   -                                                           |     | Solidity |
+| Venus Protocol Isolated Pools       | -         |  1          |   -                                                           |       | Solidity |
+| Chainlink Cross-Chain Services      | 1         |  -          |   -                                                           |      | Solidity |
 | Index            | 0         | 5           |  -               | | Solidity | 
 | USSD             | 4         | 5           |  -               | | Solidity | 
 | Y2K              | 1         | 3           |  [Report](https://github.com/sherlock-audit/2023-03-Y2K-judging/blob/main/Audit_Report.pdf)              |   | Solidity | 
