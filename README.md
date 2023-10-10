@@ -32,15 +32,6 @@ Second position in secureum race-18
 | USSD             | 4         | 5           |  -               | | Solidity | 
 | Y2K              | 1         | 3           |  [Report](https://github.com/sherlock-audit/2023-03-Y2K-judging/blob/main/Audit_Report.pdf)              |   | Solidity | 
 
-
-# CodeHawks
-
-## Audit Competitions
-| Contest | High risk | Medium risk | Security report | Position | Payout | Language |
-| --------| ----------| ------------| ----------------| ---------| -------| ---------|
-| Beedle  | -         | -           |  -              | -        | -      | Solidity |
-
-
 <!--# Hats Finance
 
 ## Audit Competitions
