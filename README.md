@@ -56,7 +56,7 @@ Second position in secureum race-18
 - [Issue 2](https://github.com/sherlock-audit/2023-04-hubble-exchange-judging/issues/234)
 
 <!-- How to Reach Me -->
-## 📫 How to Reach us
+## 📫 How to Reach Me
 
 You can connect with us on:
 
